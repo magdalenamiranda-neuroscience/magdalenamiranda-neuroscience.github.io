@@ -180,6 +180,13 @@ class SiteTests(unittest.TestCase):
                 self.assertNotIn(n, text, f"{f.relative_to(ROOT)} contains '{n}'")
         self.assertNotIn("data-email", (SITE / "index.html").read_text(encoding="utf-8"))
 
+    def test_google_scholar_link_is_shown(self):
+        scholar = "https://scholar.google.com/citations?user=CNZ1axcAAAAJ"
+        for rel in ("index.html", "publications/index.html"):
+            html = (SITE / rel).read_text(encoding="utf-8")
+            self.assertIn(scholar, html, rel)
+            self.assertIn("Google Scholar", html, rel)
+
     def test_no_cv_page_or_download(self):
         self.assertFalse((SITE / "cv").exists())
         self.assertEqual(list(SITE.rglob("*.pdf")), [])
