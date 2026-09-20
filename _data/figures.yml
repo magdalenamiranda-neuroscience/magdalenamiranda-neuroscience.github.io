@@ -1,0 +1,21 @@
+memory-discrimination:
+  src: /assets/img/theme-1-memory.webp
+  alt: "Colour rate maps of hippocampal place cells in three retrieval conditions, before and after testing"
+  credit: "Figure adapted from Miranda et al., 2024, PLOS Biology. CC BY 4.0."
+  fit: contain
+cognitive-ageing:
+  src: /assets/img/theme-2-ageing.webp
+  alt: "Black-and-white photograph of a younger hand holding an older hand"
+eeg-ml:
+  src: /assets/img/theme-3-eeg.webp
+  alt: "Bar chart of the mean contribution of EEG features (band power, complexity, aperiodic exponent) to a machine-learning model"
+  credit: "Preliminary, unpublished data."
+  fit: contain
+aversive-learning:
+  src: /assets/img/theme-4-aversive.webp
+  alt: "Aversive and safety learning paradigm in mice (pretest, conditioning, choice test) and freezing results for control, safe and aversive groups"
+  credit: "Figure from Miranda et al., 2025, Current Biology. CC BY-NC-ND 4.0. Reproduced unmodified."
+  fit: contain
+retinal-ischemia:
+  src: /assets/img/theme-5-retina.webp
+  alt: "Confocal micrograph of the layers of the retina, with photoreceptors in green above bipolar and ganglion cells in red, magenta and blue"

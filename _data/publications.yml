@@ -1,0 +1,537 @@
+- doi: 10.1016/j.cub.2025.11.006
+  title: Modulation of relative aversive and safety learning by D2-expressing neurons of the anterior paraventricular nucleus of the thalamus
+  authors:
+  - name: Magdalena Miranda
+    self: true
+  - name: Elsa Karam
+    self: false
+  - name: Pola Tuduri
+    self: false
+  - name: Maïwenn Passard
+    self: false
+  - name: Majda Drahmani
+    self: false
+  - name: Loic Vaillant
+    self: false
+  - name: Christina-Anna Vallianatou
+    self: false
+  - name: Marina Lavigne
+    self: false
+  - name: Eric J. Kremer
+    self: false
+  - name: Jeanne Ster
+    self: false
+  - name: Emmanuel Perisse
+    self: false
+  - name: Stéphanie Trouche
+    self: false
+  journal: Current Biology
+  year: 2025
+  volume: '35'
+  pages: 6070-6085.e4
+  type: article
+  lead: true
+  corresponding: false
+  oa: true
+- doi: 10.3389/fnbeh.2024.1478656
+  title: Environmental enrichment in middle age rats improves spatial and object memory discrimination deficits
+  authors:
+  - name: Magdalena Miranda
+    self: true
+  - name: Maria Carla Navas
+    self: false
+  - name: Maria Belen Zanoni Saad
+    self: false
+  - name: Dinka Piromalli Girado
+    self: false
+  - name: Noelia Weisstaub
+    self: false
+  - name: Pedro Bekinschtein
+    self: false
+  journal: Frontiers in Behavioral Neuroscience
+  year: 2024
+  volume: '18'
+  pages: ''
+  type: article
+  lead: true
+  corresponding: true
+  oa: true
+- doi: 10.1371/journal.pbio.3002706
+  title: Retrieval of contextual memory can be predicted by CA3 remapping and is differentially influenced by NMDAR activity in rat hippocampus subregions
+  authors:
+  - name: Magdalena Miranda
+    self: true
+  - name: Azul Silva
+    self: false
+  - name: Juan Facundo Morici
+    self: false
+  - name: Marcos Antonio Coletti
+    self: false
+  - name: Mariano Belluscio
+    self: false
+  - name: Pedro Bekinschtein
+    self: false
+  journal: PLOS Biology
+  year: 2024
+  volume: '22'
+  pages: e3002706
+  type: article
+  lead: true
+  corresponding: false
+  oa: true
+- doi: 10.1016/j.isci.2023.106176
+  title: Acute and chronic physical activity improves spatial memory in an immersive virtual reality task
+  authors:
+  - name: Daniela Ramirez Butavand
+    self: false
+  - name: María F. Rodriguez
+    self: false
+  - name: María V. Cifuentes
+    self: false
+  - name: Magdalena Miranda
+    self: true
+  - name: Cristian García Bauza
+    self: false
+  - name: Pedro Bekinschtein
+    self: false
+  - name: Fabricio Ballarini
+    self: false
+  journal: iScience
+  year: 2023
+  volume: '26'
+  pages: '106176'
+  type: article
+  lead: false
+  corresponding: false
+  oa: true
+- doi: 10.3389/fnbeh.2023.1205371
+  title: 'Editorial: Updates on memory modulation in health and disease'
+  authors:
+  - name: Magdalena Miranda
+    self: true
+  - name: Marcelo Giachero
+    self: false
+  - name: Noelia V. Weisstaub
+    self: false
+  - name: Juan Facundo Morici
+    self: false
+  journal: Frontiers in Behavioral Neuroscience
+  year: 2023
+  volume: '17'
+  pages: ''
+  type: editorial
+  lead: false
+  corresponding: false
+  oa: true
+- doi: 10.3389/fnsys.2023.1043664
+  title: Endocytosis is required for consolidation of pattern-separated memories in the perirhinal cortex
+  authors:
+  - name: Dinka Piromalli Girado
+    self: false
+  - name: Magdalena Miranda
+    self: true
+  - name: Marcelo Giachero
+    self: false
+  - name: Noelia Weisstaub
+    self: false
+  - name: Pedro Bekinschtein
+    self: false
+  journal: Frontiers in Systems Neuroscience
+  year: 2023
+  volume: '17'
+  pages: ''
+  type: article
+  lead: false
+  corresponding: false
+  oa: true
+- doi: 10.1016/j.conb.2023.102696
+  title: Modulation of aversive value coding in the vertebrate and invertebrate brain
+  authors:
+  - name: Emmanuel Perisse
+    self: false
+  - name: Magdalena Miranda
+    self: true
+  - name: Stéphanie Trouche
+    self: false
+  journal: Current Opinion in Neurobiology
+  year: 2023
+  volume: '79'
+  pages: '102696'
+  type: review
+  lead: false
+  corresponding: false
+  oa: true
+- doi: 10.1016/j.bandc.2021.105831
+  title: An action-concept processing advantage in a patient with a double motor cortex
+  authors:
+  - name: Magdalena Miranda
+    self: true
+  - name: Cecilia Gonzalez Campo
+    self: false
+  - name: Agustina Birba
+    self: false
+  - name: Alejandra Neely
+    self: false
+  - name: Felipe Diego Toro-Hernández
+    self: false
+  - name: Evelyng Faure
+    self: false
+  - name: Gonzalo M. Rojas
+    self: false
+  - name: Agustín Ibáñez
+    self: false
+  - name: Adolfo García
+    self: false
+  journal: Brain and Cognition
+  year: 2022
+  volume: '156'
+  pages: '105831'
+  type: article
+  lead: true
+  corresponding: false
+  oa: true
+- doi: 10.1523/jneurosci.0740-21.2022
+  title: Dopamine Modulates Adaptive Forgetting in Medial Prefrontal Cortex
+  authors:
+  - name: Francisco Tomás Gallo
+    self: false
+  - name: María Belén Zanoni Saad
+    self: false
+  - name: Azul Silva
+    self: false
+  - name: Juan Facundo Morici
+    self: false
+  - name: Magdalena Miranda
+    self: true
+  - name: Michael C. Anderson
+    self: false
+  - name: Noelia V. Weisstaub
+    self: false
+  - name: Pedro Bekinschtein
+    self: false
+  journal: The Journal of Neuroscience
+  year: 2022
+  volume: '42'
+  pages: 6620-6636
+  type: article
+  lead: false
+  corresponding: false
+  oa: true
+- doi: 10.1016/j.neuroscience.2022.05.015
+  title: Serotonin Type 2a Receptor in the Prefrontal Cortex Controls Perirhinal Cortex Excitability During Object Recognition Memory Recall
+  authors:
+  - name: J.F. Morici
+    self: false
+  - name: G. Cicuttin
+    self: false
+  - name: A. Silva
+    self: false
+  - name: F.T. Gallo
+    self: false
+  - name: M. Miranda
+    self: true
+  - name: M. Belluscio
+    self: false
+  - name: C. Zold
+    self: false
+  - name: P. Bekinschtein
+    self: false
+  - name: N.V. Weisstaub
+    self: false
+  journal: Neuroscience
+  year: 2022
+  volume: '497'
+  pages: 196-205
+  type: article
+  lead: false
+  corresponding: false
+  oa: false
+- doi: 10.1016/j.nlm.2021.107544
+  title: Functional connectivity of anterior retrosplenial cortex in object recognition memory
+  authors:
+  - name: Ana Belén de Landeta
+    self: false
+  - name: Magdalena Pereyra
+    self: false
+  - name: Magdalena Miranda
+    self: true
+  - name: Pedro Bekinschtein
+    self: false
+  - name: Jorge H. Medina
+    self: false
+  - name: Cynthia Katche
+    self: false
+  journal: Neurobiology of Learning and Memory
+  year: 2021
+  volume: '186'
+  pages: '107544'
+  type: article
+  lead: false
+  corresponding: false
+  oa: true
+- doi: 10.1523/jneurosci.2578-20.2021
+  title: 'Interoception Primes Emotional Processing: Multimodal Evidence from Neurodegeneration'
+  authors:
+  - name: Paula C. Salamone
+    self: false
+  - name: Agustina Legaz
+    self: false
+  - name: Lucas Sedeño
+    self: false
+  - name: Sebastián Moguilner
+    self: false
+  - name: Matías Fraile-Vazquez
+    self: false
+  - name: Cecilia Gonzalez Campo
+    self: false
+  - name: Sol Fittipaldi
+    self: false
+  - name: Adrián Yoris
+    self: false
+  - name: Magdalena Miranda
+    self: true
+  - name: Agustina Birba
+    self: false
+  - name: Agostina Galiani
+    self: false
+  - name: Sofía Abrevaya
+    self: false
+  - name: Alejandra Neely
+    self: false
+  - name: Miguel Martorell Caro
+    self: false
+  - name: Florencia Alifano
+    self: false
+  - name: Roque Villagra
+    self: false
+  - name: Florencia Anunziata
+    self: false
+  - name: Maira Okada de Oliveira
+    self: false
+  - name: Ricardo M. Pautassi
+    self: false
+  - name: Andrea Slachevsky
+    self: false
+  - name: Cecilia Serrano
+    self: false
+  - name: Adolfo M. García
+    self: false
+  - name: Agustín Ibañez
+    self: false
+  journal: The Journal of Neuroscience
+  year: 2021
+  volume: '41'
+  pages: 4276-4292
+  type: article
+  lead: false
+  corresponding: false
+  oa: true
+- doi: 10.1002/hipo.23269
+  title: Molecular mechanisms within the dentate gyrus and the perirhinal cortex interact during discrimination of similar nonspatial memories
+  authors:
+  - name: Magdalena Miranda
+    self: true
+  - name: Juan Facundo Morici
+    self: false
+  - name: Francisco Gallo
+    self: false
+  - name: Dinka Piromalli Girado
+    self: false
+  - name: Noelia V. Weisstaub
+    self: false
+  - name: Pedro Bekinschtein
+    self: false
+  journal: Hippocampus
+  year: 2020
+  volume: '31'
+  pages: 140-155
+  type: article
+  lead: true
+  corresponding: false
+  oa: true
+- doi: 10.3389/fncir.2020.00026
+  title: Neurophotonics Approaches for the Study of Pattern Separation
+  authors:
+  - name: Cristian Morales
+    self: false
+  - name: Juan Facundo Morici
+    self: false
+  - name: Magdalena Miranda
+    self: true
+  - name: Francisco Tomás Gallo
+    self: false
+  - name: Pedro Bekinschtein
+    self: false
+  - name: Noelia V. Weisstaub
+    self: false
+  journal: Frontiers in Neural Circuits
+  year: 2020
+  volume: '14'
+  pages: ''
+  type: review
+  lead: false
+  corresponding: false
+  oa: true
+- doi: 10.3389/fncel.2019.00363
+  title: 'Brain-Derived Neurotrophic Factor: A Key Molecule for Memory in the Healthy and the Pathological Brain'
+  authors:
+  - name: Magdalena Miranda
+    self: true
+  - name: Juan Facundo Morici
+    self: false
+  - name: María Belén Zanoni
+    self: false
+  - name: Pedro Bekinschtein
+    self: false
+  journal: Frontiers in Cellular Neuroscience
+  year: 2019
+  volume: '13'
+  pages: ''
+  type: review
+  lead: false
+  corresponding: false
+  oa: true
+- doi: 10.1007/s12035-019-01715-5
+  title: 'The “Use It or Lose It” Dogma in the Retina: Visual Stimulation Promotes Protection Against Retinal Ischemia'
+  authors:
+  - name: María Florencia González Fleitas
+    self: false
+  - name: Marcos L. Aranda
+    self: false
+  - name: Hernán H. Diéguez
+    self: false
+  - name: Georgia Milne
+    self: false
+  - name: Leonel Langellotti
+    self: false
+  - name: Magdalena Miranda
+    self: true
+  - name: Florencia Altschuler
+    self: false
+  - name: Damian Dorfman
+    self: false
+  - name: Ruth E. Rosenstein
+    self: false
+  journal: Molecular Neurobiology
+  year: 2019
+  volume: '57'
+  pages: 435-449
+  type: article
+  lead: false
+  corresponding: false
+  oa: false
+- doi: 10.7554/elife.33746
+  title: 5-HT2a receptor in mPFC influences context-guided reconsolidation of object memory in perirhinal cortex
+  authors:
+  - name: Juan Facundo Morici
+    self: false
+  - name: Magdalena Miranda
+    self: true
+  - name: Francisco Tomás Gallo
+    self: false
+  - name: Belén Zanoni
+    self: false
+  - name: Pedro Bekinschtein
+    self: false
+  - name: Noelia V Weisstaub
+    self: false
+  journal: eLife
+  year: 2018
+  volume: '7'
+  pages: ''
+  type: article
+  lead: false
+  corresponding: false
+  oa: true
+- doi: 10.1016/j.nlm.2018.08.019
+  title: NMDA receptors and BDNF are necessary for discrimination of overlapping spatial and non-spatial memories in perirhinal cortex and hippocampus
+  authors:
+  - name: Magdalena Miranda
+    self: true
+  - name: Brianne A. Kent
+    self: false
+  - name: Juan Facundo Morici
+    self: false
+  - name: Francisco Gallo
+    self: false
+  - name: Lisa M. Saksida
+    self: false
+  - name: Timothy J. Bussey
+    self: false
+  - name: Noelia Weisstaub
+    self: false
+  - name: Pedro Bekinschtein
+    self: false
+  journal: Neurobiology of Learning and Memory
+  year: 2018
+  volume: '155'
+  pages: 337-343
+  type: article
+  lead: true
+  corresponding: false
+  oa: true
+- doi: 10.1016/j.neuroscience.2017.06.002
+  title: Plasticity Mechanisms of Memory Consolidation and Reconsolidation in the Perirhinal Cortex
+  authors:
+  - name: Magdalena Miranda
+    self: true
+  - name: Pedro Bekinschtein
+    self: false
+  journal: Neuroscience
+  year: 2018
+  volume: '370'
+  pages: 46-61
+  type: review
+  lead: false
+  corresponding: false
+  oa: true
+- doi: 10.1523/eneuro.0293-17.2017
+  title: Molecular Mechanisms in Perirhinal Cortex Selectively Necessary for Discrimination of Overlapping Memories, but Independent of Memory Persistence
+  authors:
+  - name: Magdalena Miranda
+    self: true
+  - name: Brianne A. Kent
+    self: false
+  - name: Juan Facundo Morici
+    self: false
+  - name: Francisco Gallo
+    self: false
+  - name: Noelia V. Weisstaub
+    self: false
+  - name: Lisa M. Saksida
+    self: false
+  - name: Timothy J. Bussey
+    self: false
+  - name: Pedro Bekinschtein
+    self: false
+  journal: eNeuro
+  year: 2017
+  volume: '4'
+  pages: ENEURO.0293-17.2017
+  type: article
+  lead: true
+  corresponding: false
+  oa: true
+- doi: 10.1016/j.expneurol.2012.11.017
+  title: Post-ischemic environmental enrichment protects the retina from ischemic damage in adult rats
+  authors:
+  - name: Damián Dorfman
+    self: false
+  - name: Diego C. Fernandez
+    self: false
+  - name: Mónica Chianelli
+    self: false
+  - name: Magdalena Miranda
+    self: true
+  - name: Marcos L. Aranda
+    self: false
+  - name: Ruth E. Rosenstein
+    self: false
+  journal: Experimental Neurology
+  year: 2013
+  volume: '240'
+  pages: 146-156
+  type: article
+  lead: false
+  corresponding: false
+  oa: true

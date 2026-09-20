@@ -1,0 +1,11 @@
+{% capture links %}{% for it in site.data.nav %}<li><a href="{{ it.url | relative_url }}"{% if page.url contains it.url %} aria-current="page"{% endif %}>{{ it.label }}</a></li>{% endfor %}{% endcapture %}
+<header class="nav">
+  <div class="container nav__in">
+    <a class="nav__name" href="{{ '/' | relative_url }}">Magdalena&nbsp;Miranda</a>
+    <nav class="nav__links" aria-label="Main"><ul>{{ links }}</ul></nav>
+    <details class="nav__menu">
+      <summary aria-label="Menu"><span class="nav__burger" aria-hidden="true"></span></summary>
+      <nav aria-label="Main (mobile)"><ul>{{ links }}</ul></nav>
+    </details>
+  </div>
+</header>

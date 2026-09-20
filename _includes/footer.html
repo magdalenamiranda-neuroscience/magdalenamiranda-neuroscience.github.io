@@ -1,0 +1,10 @@
+<footer class="footer">
+  <div class="container footer__in">
+    <ul>
+      <li><a href="{{ site.data.links.linkedin }}">LinkedIn</a></li>
+      <li><a href="{{ site.data.links.orcid }}">ORCID</a></li>
+      {% if site.data.links.scholar %}<li><a href="{{ site.data.links.scholar }}">Google Scholar</a></li>{% endif %}
+    </ul>
+    <p>{{ site.data.links.location }} · © {{ "now" | date: "%Y" }} Magdalena Miranda</p>
+  </div>
+</footer>

@@ -1,0 +1,25 @@
+title: Magdalena Miranda
+description: Cognitive neuroscientist studying how memory keeps similar experiences distinct.
+url: "https://magdalenamiranda-neuroscience.github.io"
+baseurl: ""
+lang: en
+markdown: kramdown
+permalink: /news/:year/:month/:day/:title/
+plugins:
+  - jekyll-sitemap
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - scripts
+  - tests
+  - incoming
+  - vendor
+  - .bundle
+  - node_modules
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post

@@ -1,0 +1,65 @@
+- id: memory-discrimination
+  number: "01"
+  species: Rodents
+  title: Memory discrimination and its molecular mechanisms
+  summary: How the brain keeps overlapping memories distinct, studied in rats with behaviour and brain pharmacology.
+  text: >-
+    Remembering that today differs from yesterday means keeping overlapping memories apart. I designed
+    behavioural tasks in rats and used microinfusions into specific brain regions to identify the molecular
+    pathways involved (BDNF, Arc and NMDA receptors) and how regions such as the hippocampus and the
+    perirhinal cortex interact.
+  tags: [Behaviour, Pharmacology, BDNF, Hippocampus, Perirhinal cortex]
+  papers:
+    - 10.1371/journal.pbio.3002706
+    - 10.7554/elife.33746
+    - 10.1523/eneuro.0293-17.2017
+- id: cognitive-ageing
+  number: "02"
+  species: Humans
+  title: Memory discrimination and cognitive ageing
+  summary: A behavioural task to detect early, selective memory decline with age, and brain-function studies in humans.
+  text: >-
+    Memory discrimination declines selectively with age. I developed a behavioural task to detect this early,
+    and I work with clinicians to relate memory to brain function in humans, from resting-state fMRI in a rare
+    neurological case to virtual-reality studies of physical activity and spatial memory.
+  tags: [Behavioural task, Ageing, fMRI, Virtual reality]
+  papers:
+    - 10.1016/j.isci.2023.106176
+    - 10.1016/j.bandc.2021.105831
+- id: eeg-ml
+  number: "03"
+  species: Humans
+  title: Decoding EEG with machine learning
+  summary: A full analysis pipeline to find neural signals that distinguish similar from identical stimuli.
+  text: >-
+    I built an end-to-end pipeline (preprocessing, dimensionality reduction with PCA, Elastic Net regression,
+    bootstrap resampling and cross-validation) to find neural signals linked to memory discrimination, with
+    feature-importance metrics that make the result interpretable.
+  tags: [EEG, Machine learning, Python, R]
+  papers:
+    - 10.1523/jneurosci.2578-20.2021
+- id: aversive-learning
+  number: "04"
+  species: Mice
+  title: Circuits of aversive and safety learning
+  summary: How thalamic D2 neurons shape the learning of relative aversive and safe values in mice.
+  text: >-
+    In mice, I showed that D2-expressing neurons of the anterior paraventricular thalamus shape how animals
+    learn the relative value of aversive and safe cues, combining behavioural assays with recordings of neural
+    activity and viral tools.
+  tags: [Decision-making, Thalamus, Viral tools, Neural activity]
+  papers:
+    - 10.1016/j.cub.2025.11.006
+    - 10.1016/j.conb.2023.102696
+- id: retinal-ischemia
+  number: "05"
+  species: Rodents
+  title: Environmental enrichment against retinal ischemic damage
+  summary: Which factors of an enriched environment help the retina recover after ischemic injury.
+  text: >-
+    Histological and electrophysiological analysis of retinal ischemia induced by raised intraocular pressure
+    in rats, to identify which components of an enriched environment help the retina recover after injury.
+  tags: [Electroretinogram, Histology, Ischemia, Enrichment]
+  papers:
+    - 10.1016/j.expneurol.2012.11.017
+    - 10.1007/s12035-019-01715-5
